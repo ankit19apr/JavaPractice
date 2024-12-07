@@ -4,7 +4,7 @@ import java.util.HashSet;
 
 
 
-public class LongestUniqueSubstring {
+public class LongestUniqueSubstringLength {
 
     public static void main(String[] args) {
         String input = "abcabcbb";
