@@ -6,7 +6,7 @@ public class AnagramCheck{
 
     public static void main(String[] args){
 
-        String str1 = "listen";
+        String str1 = "nkiAt";
         String str2 = "Ankit";
 
         System.out.println(areAnagrams(str1, str2) ? "Anagrams" : "Not Anagrams");
