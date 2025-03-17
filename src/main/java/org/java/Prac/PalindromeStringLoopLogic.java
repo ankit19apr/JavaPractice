@@ -1,4 +1,4 @@
-package org.java.natwest;
+package org.java.Prac;
 import java.util.Scanner;
 public class PalindromeStringLoopLogic {
         public static void main(String[] args) {

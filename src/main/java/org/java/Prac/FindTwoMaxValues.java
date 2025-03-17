@@ -1,4 +1,4 @@
-package org.java.natwest;
+package org.java.Prac;
 
 public class FindTwoMaxValues {
 

@@ -1,4 +1,4 @@
-package org.java.natwest;
+package org.java.Prac;
 
 public class ExtractStringComponents {
     public static void main(String[] args) {

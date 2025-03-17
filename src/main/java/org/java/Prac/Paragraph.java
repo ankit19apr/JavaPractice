@@ -1,4 +1,4 @@
-package org.java.natwest;
+package org.java.Prac;
 
 //        1. counting of char
 //        2. counting of capital letter character
