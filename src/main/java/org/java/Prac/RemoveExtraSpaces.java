@@ -1,5 +1,5 @@
-package org.java.natwest;
-import java.util.*;
+package org.java.Prac;
+
 public class RemoveExtraSpaces {
     public static void main(String[] args){
     String str = "I    am   Ankit      Sharma   ";
